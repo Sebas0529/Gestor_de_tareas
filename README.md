@@ -1,12 +1,12 @@
 ## Gestor_de_tareas
 
-$git remote add origin https://github.com/Sebas0529/Gestor_de_tareas.git
-$git pull origin main 
-$pip install virtualenv 
-$virtualenv -p python env 
-$source env/bin/activate
-$pip install requirements
-$python manage.py runserver 
+>$git remote add origin https://github.com/Sebas0529/Gestor_de_tareas.git
+>$git pull origin main 
+>$pip install virtualenv 
+>$virtualenv -p python env 
+>$source env/bin/activate
+>$pip install requirements
+>$python manage.py runserver 
 
 ### crear en postman la collection de Gestor_de_tareas
 '''
@@ -57,6 +57,3 @@ update_task --> http://127.0.0.1:8000/tasks/update_task/
 '''
 delete_task --> http://127.0.0.1:8000/tasks/delete_task/
 delete_user --> http://127.0.0.1:8000/login_register/delete_user/
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
