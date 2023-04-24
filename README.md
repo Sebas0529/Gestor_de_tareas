@@ -22,7 +22,8 @@ $pip install requirements
 $python manage.py runserver 
 
 ~~~
-### crear en postman la collection de Gestor_de_tareas
+***
+crear en postman la collection de Gestor_de_tareas
 ***
 agregar las siguientes request
 ***
