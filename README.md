@@ -1,4 +1,5 @@
-## Gestor_de_tareas
+### Gestor_de_tareas
+#Instalacion
 ~~~
 $git remote add origin https://github.com/Sebas0529/Gestor_de_tareas.git
 ~~~
