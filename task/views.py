@@ -43,7 +43,7 @@ class deletetaskView(APIView):
     
     def delete(self,request):
         
-        task = Task.objects.filter(id = 5).first()
+        task = Task.objects.filter(id = 1).first()
         task.delete()
         return Response('ELIMINADO')
     
