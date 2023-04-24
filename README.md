@@ -40,11 +40,6 @@ create_task --> http://127.0.0.1:8000/tasks/create_task/
 list_users --> http://127.0.0.1:8000/login-register/list/
 list_task --> http://127.0.0.1:8000/tasks/list_task/
 filter_status --> http://127.0.0.1:8000/tasks/filter_status_task/?status=to_do
-'''
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
 ~~~
 ### PUT
 ~~~
