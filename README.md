@@ -6,7 +6,7 @@
 $git remote add origin https://github.com/Sebas0529/Gestor_de_tareas.git
 ~~~
 ~~~
-$git pull origin main
+$git clone origin main
 ~~~
 ~~~
 $pip install virtualenv 
